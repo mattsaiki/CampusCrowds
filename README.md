@@ -1,1 +1,2 @@
 # CampusCrowds
+This is a project that I worked on for a Software Engineering course. This is an Android application that lists the dining locations at the University of San Diego and their estimated wait time. Operating off of user input, students can take pictures of the line at a dining location, enter an estimated wait time and submit misc. comments regarding each dining location. The data, including photos, comments and wait time is stored in a Firebase database.
